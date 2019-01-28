@@ -1,0 +1,11 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
+
+public class AnswerButton : MonoBehaviour
+{
+    public Button Button;
+    public TextMeshProUGUI Text;
+}

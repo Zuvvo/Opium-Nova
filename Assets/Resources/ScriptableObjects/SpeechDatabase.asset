@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a461f89b6d524d84ea5bf0ed95d0b5d1, type: 3}
+  m_Name: SpeechDatabase
+  m_EditorClassIdentifier: 
+  Speeches:
+  - Id: 0
+    Text: "Wstawaj, szeregowy. Jeste\u015B wzywany na misj\u0119. Przes\u0142a\u0107
+      szczeg\xF3\u0142owe inormacje na ten temat?"
+  - Id: 1
+    Text: "W wielu miejscach na ca\u0142ej planecie zarejestrowali\u015Bmy pewne anomalie.
+      Niestety, wszystkie przyrz\u0105dy rejestruj\u0105ce zdarzenie nie zadzia\u0142a\u0142y
+      poprawnie. Wiadomo o trz\u0119\u015Bieniach ziemi, kt\xF3re zagra\u017Caj\u0105
+      ludziom. Zbadasz, co mog\u0142o by\u0107 ich przyczyn\u0105."
+  - Id: 2
+    Text: "Skany terenu wygl\u0105daj\u0105 na zwyk\u0142e trz\u0119sienie ziemi,
+      jednak na kamerach widzimy w pewnych miejscach pustk\u0119, tak jakby kto\u015B
+      ingerowa\u0142 w nagrania. Podejrzewamy, \u017Ce kto\u015B omin\u0105\u0142
+      zabezpieczenia stolicy i spowodowa\u0142 te dziwne trz\u0119sienia. Nie wiemy
+      jednak czy jest to sprawka technologicznych, a mo\u017Ce kt\xF3rej\u015B z mniejszych
+      ras. Tak czy inaczej, sprawa jest powa\u017Cna."
+  - Id: 3
+    Text: "Od tysi\u0105cleci nie by\u0142o \u017Cadnych atak\xF3w, a je\u015Bli ju\u017C,
+      to zapobiegane by\u0142y ju\u017C przed ich rozpocz\u0119ciem. Pewnie to kolejna
+      misja treningowa. No nic, na jedno wychodzi - i tak trzeba b\u0119dzie si\u0119
+      postara\u0107."
+  - Id: 4
+    Text: "Lekcje wyniesione z III ery po zako\u0144czeniu wojen sprowadzi\u0142y
+      na cywilizacj\u0119 spore ograniczenia w u\u017Cyciu najnowszej technologii,
+      aby zapobiec powt\xF3rnym b\u0142\u0119dom. Centrum zarz\u0105dzane przez SI
+      zablokowa\u0142o dost\u0119p do tej technologii, lecz na niekt\xF3rych \u015Bwiatach
+      z racji mniejszych wp\u0142yw\xF3w centrum, nie uda\u0142o si\u0119 do ko\u0144ca
+      wytrzewi\u0107 amator\xF3w tej technologii. Nazywamy ich technologicznymi. System
+      przewidywania jednak bardzo dobrze sobie z nimi radzi, lecz ci\u0105gle stanowi\u0105
+      potencjalne zagro\u017Cenie dla cywilizacji."
+  - Id: 5
+    Text: "Dobrze, zostajesz wys\u0142any na pustyni\u0119 Akarris. Mamy doniesienia
+      o pewnej anomalii. B\u0119dziesz musia\u0142 sprawdzi\u0107, co si\u0119 tam
+      wydarzy\u0142o."
+  - Id: 6
+    Text: "Tak, prze\u015Blij."
+  - Id: 7
+    Text: "Nie, bior\u0119 si\u0119 do roboty. Powiesz mi o co chodzi p\xF3\u017Aniej."
+  - Id: 8
+    Text: "Co uda\u0142o si\u0119 zarejestrowa\u0107?"
+  - Id: 9
+    Text: "Rozumiem, przejd\u017A do konkret\xF3w."
+  - Id: 10
+    Text: "Przypomnij mi jeszcze kim s\u0105 technologiczni."
+  - Id: 11
+    Text: "Ok, co mam robi\u0107?"
